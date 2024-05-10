@@ -11,4 +11,5 @@
         <maven.compiler.target>21</maven.compiler.target>
         <exec.mainClass>com.ymcris.pre.ipc1.exercises.PREIPC1EXERCISES</exec.mainClass>
     </properties>
+    <name>PRE-IPC-1</name>
 </project>

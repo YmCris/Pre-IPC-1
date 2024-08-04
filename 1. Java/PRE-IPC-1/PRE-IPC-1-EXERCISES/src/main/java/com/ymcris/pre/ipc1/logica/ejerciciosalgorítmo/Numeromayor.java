@@ -1,4 +1,4 @@
-package com.ymcris.pre.ipc1.logica.ejerciciospseudocodigo;
+package com.ymcris.pre.ipc1.logica.ejerciciosalgorítmo;
 
 import java.util.Scanner;
 
@@ -9,10 +9,6 @@ mayor de dos números ingresados por el usuario.*/
  * @author crist
  */
 public class Numeromayor {
-
-    public static void main(String[] args) {
-        numeromayor();
-    }
 
     private static void numeromayor() {
         Scanner scanner = new Scanner(System.in);

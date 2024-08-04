@@ -12,8 +12,4 @@ RESTA, MULTIPLICACIÓN Y DIVISIÓN)
  */
 public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("BIENVENIDO A LIMALAYA");
-        System.out.println("HOLA JUAN");
-    }
 }

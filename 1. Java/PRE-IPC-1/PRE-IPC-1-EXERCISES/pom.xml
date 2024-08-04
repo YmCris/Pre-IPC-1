@@ -11,5 +11,21 @@
         <maven.compiler.target>21</maven.compiler.target>
         <exec.mainClass>com.ymcris.pre.ipc1.exercises.PREIPC1EXERCISES</exec.mainClass>
     </properties>
+        <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <addClasspath>true</addClasspath>
+                            <mainClass>com.ymcris.pre.ipc1.logica.ejerciciospseudocodigo.Calificaciones</mainClass>
+                        </manifest>
+                    </archive>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
     <name>PRE-IPC-1</name>
 </project>

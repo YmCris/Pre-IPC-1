@@ -1,4 +1,4 @@
-package com.ymcris.pre.ipc1.logica.ejerciciospseudocodigo;
+package com.ymcris.pre.ipc1.logica.ejerciciosalgorítmo;
 
 import java.util.Scanner;
 

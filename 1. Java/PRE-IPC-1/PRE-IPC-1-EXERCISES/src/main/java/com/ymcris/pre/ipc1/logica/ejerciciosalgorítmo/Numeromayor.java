@@ -10,6 +10,10 @@ mayor de dos números ingresados por el usuario.*/
  */
 public class Numeromayor {
 
+    public static void main(String[] args) {
+        numeromayor();
+    }
+
     private static void numeromayor() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ingrese el primer número");
